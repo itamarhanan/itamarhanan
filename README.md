@@ -1,4 +1,36 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Itamar Hanan. Nice to meet you!</h1>
+<h3 align="center">I'm A Full - Stack developer, specializing in Frontend technologies and frameworks.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itamarhanan&label=Profile%20views&color=0e75b6&style=flat" alt="itamarhanan" />
+<a href="https://twitter.com/itamarhanan" target="blank"><img src="https://img.shields.io/twitter/follow/itamarhanan?logo=twitter&style=for-the-badge" alt="itamarhanan" /></a> 
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itamarhanan" alt="itamarhanan" />
+
+<p align="left"></p>
+
+- 🔭 I’m currently working on **Portfolio Projects** and more.
+ 
+- 🌱 I’m currently learning **Frameworks, DevOps, AWS and advanced TypeScript concepts.**
+
+- 🤝 I’m looking to collaborate on **Next.js / React website projects & more.**
+
+- 👨‍💻 All of my projects are available [here](https://itamar-hanan.web.app/projects).
+
+- 💬 Ask me about **React, Next.js, Web Development, UI/UX Design & JavaScript.**
+
+- ⚡ Fun fact: **I'm also a music producer.**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/itamarhanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itamarhanan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itamarhanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itamarhanan" height="30" width="40" /></a>
+<a href="https://instagram.com/mrsupercraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrsupercraft" height="30" width="40" /></a>
+</p>
+
+<br />
+
+<h3 align="center">Languages and Tools:</h3>
 
 ###
 
@@ -13,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -54,25 +86,18 @@
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
 </div>
 
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
 
-###
+<p align="left><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itamarhanan&show_icons=true&theme=dark&locale=en&layout=compact" alt="itamarhanan" /></p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=itamarhanan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=itamarhanan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itamarhanan&show_icons=true&theme=dark&locale=en" alt="itamarhanan" /></p>
 
-
-###
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itamarhanan&theme=dark" alt="itamarhanan" /></p>
